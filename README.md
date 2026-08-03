@@ -7,4 +7,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3340-check-balanced-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3340-check-balanced-string) |
+## Array
+|  |
+| ------- |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 <!---LeetCode Topics End-->
