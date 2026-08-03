@@ -1,0 +1,15 @@
+class Solution {
+    public boolean isBalanced(String num) {
+        int evenSum =0;
+        int oddSum =0;
+        char[] ch = num.toCharArray();
+        for(int i=0;i<num.length();i++){
+            int digit = ch[i]-'0';
+            if(i%2==0) evenSum+=digit;
+            else oddSum+=digit;
+
+        }
+        return evenSum==oddSum;
+        
+    }
+}
