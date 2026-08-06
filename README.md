@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [3340-check-balanced-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3340-check-balanced-string) |
 ## Array
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [3731-find-missing-elements](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -30,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
