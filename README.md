@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
@@ -25,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3467-transform-array-by-parity](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
