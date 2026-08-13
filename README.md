@@ -39,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1952-three-divisors) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Queue
 |  |
@@ -100,4 +102,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0455-assign-cookies) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
