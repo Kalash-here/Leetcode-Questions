@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -114,4 +117,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1952-three-divisors) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
