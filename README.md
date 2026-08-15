@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0038-count-and-say) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0796-rotate-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3340-check-balanced-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3340-check-balanced-string) |
 ## Array
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3731-find-missing-elements) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
