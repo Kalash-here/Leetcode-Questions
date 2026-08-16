@@ -5,8 +5,7 @@ class Solution {
         while(i<n){
             if(nums[i]<=0||
             nums[i]>n||
-            nums[i]==nums[nums[i]-1]||
-            nums[i]==i+1) i++;
+            nums[i]==nums[nums[i]-1]) i++;
             else swap(nums,i,nums[i]-1);
         }
         for(i=0;i<n;i++){
