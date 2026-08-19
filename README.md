@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0912-sort-an-array) |
+| [1200-minimum-absolute-difference](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1200-minimum-absolute-difference) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1470-shuffle-the-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0912-sort-an-array) |
+| [1200-minimum-absolute-difference](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3467-transform-array-by-parity](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3731-find-missing-elements) |
