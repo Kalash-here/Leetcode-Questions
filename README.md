@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0912-sort-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1200-minimum-absolute-difference) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0912-sort-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3467-transform-array-by-parity](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0976-largest-perimeter-triangle](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1952-three-divisors](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1952-three-divisors) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -126,10 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
+| [0976-largest-perimeter-triangle](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0976-largest-perimeter-triangle) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0976-largest-perimeter-triangle) |
 ## Number Theory
 |  |
 | ------- |
@@ -187,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
