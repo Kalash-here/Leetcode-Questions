@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2460-apply-operations-to-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0922-sort-array-by-parity-ii) |
+| [2460-apply-operations-to-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2460-apply-operations-to-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
 |  |
