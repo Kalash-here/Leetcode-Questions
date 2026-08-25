@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
