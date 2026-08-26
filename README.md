@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0976-largest-perimeter-triangle) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1952-three-divisors](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1952-three-divisors) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -220,4 +221,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1227-airplane-seat-assignment-probability) |
+## Brainteaser
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1227-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
