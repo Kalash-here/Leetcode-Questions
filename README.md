@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0796-rotate-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3340-check-balanced-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3340-check-balanced-string) |
 ## Array
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Bit Manipulation
 |  |
 | ------- |
