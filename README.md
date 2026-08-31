@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0561-array-partition](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0705-design-hashset) |
 | [0881-boats-to-save-people](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0705-design-hashset) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -246,5 +248,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0705-design-hashset) |
 | [1603-design-parking-system](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1603-design-parking-system) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
