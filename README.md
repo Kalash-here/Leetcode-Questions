@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1512-number-of-good-pairs](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
@@ -276,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
