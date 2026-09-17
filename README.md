@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0922-sort-array-by-parity-ii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0705-design-hashset) |
+| [0876-middle-of-the-linked-list](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Function
 |  |
 | ------- |
