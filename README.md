@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3340-check-balanced-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3498-reverse-degree-of-a-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
