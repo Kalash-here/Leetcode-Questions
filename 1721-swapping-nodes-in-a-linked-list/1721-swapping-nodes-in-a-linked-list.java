@@ -10,19 +10,20 @@
  */
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
-        ListNode a = head;
-        ListNode b = head;
-        int l =0;
-        ListNode temp = head;
-        while(temp!=null){
-            temp=temp.next;
-            l++;
+        //using slow fast approach
+        ListNode slow = head;
+        ListNode fast = head;
+        for(int i=1;i<=k;i++) fast=fast.next;
+        while(fast !=null){
+            fast=fast.next;
+            slow=slow.next;
         }
-        for(int i=1;i<k;i++) a = a.next;
-        for(int i=1;i<=l-k;i++) b = b.next;
-        int tem = a.val;
-        a.val=b.val;
-        b.val=tem;
+        fast=head;
+        for(int i=1;i<k;i++) fast=fast.next;
+        int tem = slow.val;
+        slow.val=fast.val;
+        fast.val=tem;
         return head;
+        
     }
 }
