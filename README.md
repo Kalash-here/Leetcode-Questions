@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0925-long-pressed-name) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Function
 |  |
