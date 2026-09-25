@@ -19,10 +19,12 @@ class Solution {
         }
         int n = ans.size();
         for(int i=1;i<n;i++){
-            ans.get(i).next=ans.get(i-1);
+            ListNode a =ans.get(i);
+            ListNode b =ans.get(i-1);
+            a.next=b;
         }
         ans.get(0).next=null;
         return ans.get(n-1);
         
     }
-}
+} 
