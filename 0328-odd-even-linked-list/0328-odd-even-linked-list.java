@@ -15,9 +15,9 @@ class Solution {
         ListNode t1 = d1;
         ListNode t2 = d2;
         ListNode temp = head;
-        int a =0;
+        int p =0;
         while(temp!=null){
-            if(a%2==0){
+            if(p%2==0){
                 t1.next = temp;
                 t1=t1.next;
             }
@@ -26,7 +26,7 @@ class Solution {
                 t2=t2.next;
             }
             temp=temp.next;
-            a++;
+            p++;
         }
         t2.next=null;
         t1.next=d2.next;
