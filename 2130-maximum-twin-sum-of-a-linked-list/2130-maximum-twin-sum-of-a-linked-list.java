@@ -10,16 +10,16 @@
  */
 class Solution {
     public ListNode reverse(ListNode head){
-        ListNode prev = null;
+        ListNode p= null;
         ListNode forw = null;
         ListNode curr=head;
         while(curr!=null){
             forw = curr.next;
-            curr.next=prev;
-            prev=curr;
+            curr.next=p;
+            p=curr;
             curr=forw;
         }
-        return prev;
+        return p;
 
     }
     public int pairSum(ListNode head) {
