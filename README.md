@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0038-count-and-say) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0796-rotate-string) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1227-airplane-seat-assignment-probability) |
 ## Brainteaser
@@ -337,4 +339,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
