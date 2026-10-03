@@ -12,11 +12,11 @@ class Solution {
     public ListNode reverseList(ListNode head) {
         // Recursive approach 
         if(head== null || head.next == null) return head;
-        ListNode a = head.next;
+        ListNode ans = head.next;
         head.next=null;
-        ListNode ans = reverseList(a);
-        a.next=head;
-        return ans;
+        ListNode a = reverseList(ans);
+        ans.next=head;
+        return a;
         
     }
 }
