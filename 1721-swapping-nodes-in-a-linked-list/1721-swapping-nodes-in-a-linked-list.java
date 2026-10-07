@@ -10,20 +10,25 @@
  */
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
-        //using slow fast approach
-        ListNode slow = head;
+        ListNode temp1 = head;
         ListNode fast = head;
-        for(int i=1;i<=k;i++) fast=fast.next;
-        while(fast !=null){
-            fast=fast.next;
-            slow=slow.next;
+        ListNode slow = head;
+        // access first kth node 
+        for(int i=1;i<k;i++){
+            temp1=temp1.next;
         }
-        fast=head;
-        for(int i=1;i<k;i++) fast=fast.next;
-        int tem = slow.val;
-        slow.val=fast.val;
-        fast.val=tem;
+        // access last kth node 
+        for(int i=1;i<=k;i++){
+            fast=fast.next;
+        }
+        while(fast!=null){
+            slow=slow.next;
+            fast=fast.next;
+        }
+        // swapping nodes values
+        int temp=temp1.val;
+        temp1.val=slow.val;
+        slow.val=temp;
         return head;
-        
     }
 }
