@@ -11,6 +11,7 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+        //streak bna rhi bss
         int count1=0;
         int count2=0;
         ListNode temp = headA;
