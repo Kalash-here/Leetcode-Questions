@@ -13,6 +13,7 @@ public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         //streak bna rhi bss
         // day 2
+        // day 3
         int count1=0;
         int count2=0;
         ListNode temp = headA;
