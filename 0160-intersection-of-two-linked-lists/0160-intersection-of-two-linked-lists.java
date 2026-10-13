@@ -14,6 +14,7 @@ public class Solution {
         //streak bna rhi bss
         // day 2
         // day 3
+        // day 4
         int count1=0;
         int count2=0;
         ListNode temp = headA;
