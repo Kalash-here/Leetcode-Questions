@@ -16,6 +16,7 @@ public class Solution {
         // day 3
         // day 4
         // day 5
+        // day 6
         int count1=0;
         int count2=0;
         ListNode temp = headA;
