@@ -1,52 +1,63 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
+
+import java.util.*;
+
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        if(lists.length==0) return null;
-        // map arr elements to a arraylist
-        ArrayList <ListNode> ans = new ArrayList<>();
-        for(ListNode n : lists){
-            ans.add(n);
+        ArrayList<ListNode> ans = new ArrayList<>();
+        ArrayList<ListNode> bns = new ArrayList<>();
+
+        for (ListNode n : lists) {
+            if (n != null) ans.add(n);
         }
-        // break when single list in arrylist
-        while(ans.size()!=1){
-            ListNode a = ans.get(ans.size()-1);
-            ans.remove(a);
-            ListNode b = ans.get(ans.size()-1);
-            ans.remove(b);
-            ListNode c = merge(a,b);
-            ans.add(c);
+
+        if (ans.isEmpty()) return null;
+
+        while (ans.size() + bns.size() > 1) {
+
+            while (ans.size() >= 2) {
+                ListNode a = ans.remove(ans.size() - 1);
+                ListNode b = ans.remove(ans.size() - 1);
+                bns.add(merge(a, b));
+            }
+
+            if (ans.size() == 1) {
+                bns.add(ans.remove(0));
+            }
+
+            while (bns.size() >= 2) {
+                ListNode a = bns.remove(bns.size() - 1);
+                ListNode b = bns.remove(bns.size() - 1);
+                ans.add(merge(a, b));
+            }
+
+            if (bns.size() == 1 && ans.isEmpty()) {
+                ans.add(bns.remove(0));
+            }
         }
+
         return ans.get(0);
-        
     }
-    // merge function 
-    public ListNode merge(ListNode h1, ListNode h2){
+
+    public ListNode merge(ListNode h1, ListNode h2) {
         ListNode i = h1;
         ListNode j = h2;
         ListNode dummy = new ListNode(-1);
         ListNode k = dummy;
-        while(i!=null && j!=null){
-            if(i.val<=j.val){
-                k.next=i;
-                i=i.next;
+
+        while (i != null && j != null) {
+            if (i.val <= j.val) {
+                k.next = i;
+                i = i.next;
+            } else {
+                k.next = j;
+                j = j.next;
             }
-            else{
-                k.next=j;
-                j=j.next;
-            }
-            k=k.next;
+            k = k.next;
         }
-        if(i==null) k.next=j;
-        if(j==null) k.next=i;
+
+        if (i == null) k.next = j;
+        else k.next = i;
+
         return dummy.next;
     }
 }
