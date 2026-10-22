@@ -7,7 +7,7 @@ class Solution {
         ArrayList<ListNode> bns = new ArrayList<>();
 
         for (ListNode n : lists) {
-            ans.add(n);
+            if(n!=null)ans.add(n);
         }
 
         if (ans.isEmpty()) return null;
