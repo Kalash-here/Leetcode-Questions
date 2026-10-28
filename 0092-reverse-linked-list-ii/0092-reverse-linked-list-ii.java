@@ -10,29 +10,36 @@
  */
 class Solution {
     public ListNode reverseBetween(ListNode head, int left, int right) {
-        ArrayList <ListNode> ans = new ArrayList<>();
-        // map all elements into arrL
-        ListNode temp = head; 
-        while(temp!=null){
-            ans.add(temp);
+        ListNode dummy = new ListNode(-1);
+        dummy.next=head;
+        ListNode temp = dummy;
+        for(int i =1;i<=left-1;i++){
             temp=temp.next;
         }
-        // set indices
-        int i = left-1;
-        int j = right-1;
-        // swap nodes
-        while(i<j){
-            ListNode t1 = ans.get(i);
-            ListNode t2 = ans.get(j);
-            ans.set(i,t2);
-            ans.set(j,t1);
-            i++;
-            j--;
+        ListNode tail1= temp;
+        ListNode head2 = tail1.next;
+        for(int i=1;i<=right-left+1;i++){
+            temp=temp.next;
         }
-        // set up connections 
-        for(i=0; i<ans.size();i++){
-            ans.get(i).next= (i==ans.size()-1)? null : ans.get(i+1);
+        ListNode tail2=temp;
+        ListNode head3 = tail2.next;
+        tail1.next=null;
+        tail2.next=null;
+        reverse(head2);
+        tail1.next=tail2;
+        head2.next=head3;
+        return dummy.next;
+        
+    }
+    public void reverse (ListNode head){
+        ListNode curr = head;
+        ListNode fwd = null;
+        ListNode prev = null;
+        while(curr !=null){
+            fwd = curr.next;
+            curr.next=prev;
+            prev= curr;
+            curr= fwd;
         }
-        return ans.get(0);
     }
 }
