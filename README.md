@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1512-number-of-good-pairs) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-design-parking-system](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1603-design-parking-system) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
