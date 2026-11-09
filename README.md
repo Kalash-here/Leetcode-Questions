@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3731-find-missing-elements) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0912-sort-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Treap
 |  |
 | ------- |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -344,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Function
 |  |
 | ------- |
@@ -391,4 +397,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
