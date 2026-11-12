@@ -5,9 +5,10 @@ class Solution {
         for(int i=1;i<s.length();i++){
             if(s.charAt(i)==s.charAt(i-1)) {
                 count++;
-                max = Math.max(count,max); 
+                
             }
             else count=1;
+            max = Math.max(count,max); 
         }
         
         return max;
