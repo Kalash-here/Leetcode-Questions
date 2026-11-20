@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2460-apply-operations-to-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kalash-here/Leetcode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3467-transform-array-by-parity](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/Kalash-here/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/Kalash-here/Leetcode-Questions/tree/master/0976-largest-perimeter-triangle) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Kalash-here/Leetcode-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Quicksort
 |  |
 | ------- |
