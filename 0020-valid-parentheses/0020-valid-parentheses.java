@@ -1,25 +1,26 @@
 class Solution {
     public boolean isValid(String s) {
-        int n = s.length();
-        if(n%2==1) return false;
         Stack <Character> st = new Stack<>();
+        int n = s.length();
         for(int i=0;i<n;i++){
             char ch = s.charAt(i);
-            if(ch=='('||ch=='{'||ch=='[') st.push(ch);
+            //opening bracket
+            if(ch=='('||ch=='{'||ch=='[')st.push(ch);
+            // closing bracket 
             else{
                 if(st.size()==0) return false;
                 char top = st.peek();
-                if(sameStyle(top,ch)) st.pop();
+                if(sameStyle(ch,top)) st.pop();
                 else return false;
             }
-        }
-        return (st.size()==0);
-        
+
+        }          
+        return st.size()==0;   
     }
-    public boolean sameStyle(char top,char ch){
-        if(top=='('&& ch ==')') return true;
-        if(top=='{'&& ch =='}') return true;
-        if(top=='['&& ch ==']') return true;
+    public boolean sameStyle(char ch , char top){
+        if(top=='('&& ch==')') return true;
+        if(top=='{'&& ch=='}') return true;
+        if(top=='['&& ch==']') return true;
         return false;
     }
 }
